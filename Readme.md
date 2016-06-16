@@ -10,7 +10,7 @@
 
 Unfortunately 3BA seems to be hard to find in a grub screw and 2BA is too big and 4BA looks too small compared to the reference.
 
-*M4 is 0.1mm smaller than a 3BA so is probably the best compromise*.  The part in the T-Jay kit is M3 which in my opinion is too small.
+**My preference is to use an M4 grub screw into the 3BA part.  This threads nicely and doesn't force the plastic too much as the hole is slightly larger.**
 
 Also included in the file is a base block with no grub screw hole or pin hole and one with just the pin hole for anyone wanting to customise this part.
 
@@ -26,4 +26,10 @@ Designed to fit *my* blaster moulding but should fit most if carved out accordin
 A 8mm diameter stub is added to aid gluing to the tube in the T-Jay kit.
 
 ### Power Cylinder
-These have been modeled based on the only measurements I could find, and are best described as rough.  At some point I hope to source better reference and re-design these completely.
+These have been modeled based on the only measurements I could find, by Playfulwolfcub.  The author makes highly researched and regarded metal replicas.
+
+The v1.0 part was compared with a metal replica of one of their parts and a few small adjustments made to closer match the replica.
+
+The v1.1 is also available in 3 of the profiles seen in the films.
+
+![Power Cylinder Profiles](/Images/PowerCylinderProfiles.jpg)
